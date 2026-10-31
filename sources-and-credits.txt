@@ -1,0 +1,411 @@
+C6002C17 - Environment and Geography Field Course
+Harper Adams University
+Anglesey coastal identification resources
+
+Identification resources for C6002C17 - Environment and Geography Field Course at Harper Adams University. Explore coastal habitats and species during the week-long field course on Anglesey. Start with the short guides, then use the fuller references to check diagnostic features.
+
+This public resource links directly to publisher-hosted guides. Download the PDFs you need before travelling; the linked resources otherwise require internet access.
+Choose guides for the habitat and season. In autumn or winter, flower photographs and breeding-seabird sheets have limits; use vegetative plant characters and bird structure as well as colour.
+Check more than one diagnostic feature. Record the date, place, habitat, size and useful photographs. Keep uncertain records at genus or group level, and ask a tutor to review them.
+A spotter sheet is a shortlist, not a species-richness key. Do not count broad groups such as coral weeds or flat periwinkles as if they were resolved species.
+Authors and publishers retain their rights in the linked material. This website hosts the resource directory and HAU design assets; it does not republish the identification PDFs.
+
+OVERVIEW DESIGN
+Design follows https://entomology-hau.github.io/entohub/ . HAU logo and Montserrat fonts are embedded in the HTML overview. Original asset URLs are listed below.
+https://entomology-hau.github.io/entohub/assets/harper-adams-logo.png
+https://entomology-hau.github.io/entohub/assets/montserrat-400.woff2
+https://entomology-hau.github.io/entohub/assets/montserrat-500.woff2
+https://entomology-hau.github.io/entohub/assets/montserrat-600.woff2
+https://entomology-hau.github.io/entohub/assets/montserrat-700.woff2
+
+ORIGINAL SOURCES AND CREDIT NOTES
+
+R01 | Welsh Coastal Birds
+Amgueddfa Cymru - Museum Wales
+Topic: Birds
+Publisher: https://museum.wales/collections/on-your-doorstep/identifying-nature/spotters-guide/
+Pages: 1 | Size: 0.44 MB
+Publisher PDF: https://museum.wales/media/54178/16SG-Welsh-Coastal-Birds.pdf
+Scope: One-page illustrated starter sheet covering ten Welsh coastal birds: chough, gannet, oystercatcher, razorbill, shag, guillemot, Manx shearwater, dunlin, curlew and puffin. Includes seasonal and habitat cues.
+Limit: A small introductory selection, not a complete coastal-bird guide. Several seabirds are chiefly spring/summer targets; do not treat every species as expected on an autumn course.
+Credits/use: Freely offered PDF on the museum's official spotter-sheet page. No explicit open reuse licence observed; retain the complete original and attribution.
+
+R02 | Winter Waders: Taking the first ID steps
+British Trust for Ornithology (BTO); Su Gough, BTO News, Winter 2016
+Topic: Birds
+Publisher: https://www.bto.org/learn/skills/fieldcraft/articles/bird-id
+Pages: 2 | Size: 0.64 MB
+Publisher PDF: https://www.bto.org/sites/default/files/field_craft_how_to_identify_winter_waders.pdf
+Scope: Two-page teaching article on using relative size, shape, habitat and season to narrow winter wader identifications; illustrated silhouettes and discussion of confusion groups and Ruff.
+Limit: A method primer, not a comprehensive photographic key. Use alongside the Wildlife Trusts wader guide and BTO comparison videos.
+Credits/use: Free official BTO download. Keep original author/photo credits; private educational pack use, with source-page links preferable for public hosting.
+
+R03 | How to identify drab dabbling ducks
+British Trust for Ornithology (BTO); Nick Moran, BTO News, Autumn 2021
+Topic: Birds
+Publisher: https://www.bto.org/learn/skills/fieldcraft/articles/bird-id
+Pages: 2 | Size: 1.24 MB
+Publisher PDF: https://www.bto.org/sites/default/files/fieldcraft_how_to_identify_drab_dabbling_ducks.pdf
+Scope: Two-page illustrated guide to structural characters, bill shape, speculum and other useful features when females, juveniles and eclipse males are difficult to identify.
+Limit: Covers dabbling ducks, not diving ducks, sea ducks or geese. Best used with a fuller species guide.
+Credits/use: Free official BTO download. Keep original author/photo credits; private educational pack use, with source-page links preferable for public hosting.
+
+R04 | A gateway to gulls
+British Trust for Ornithology (BTO); Nick Moran, BTO News, Winter 2023
+Topic: Birds
+Publisher: https://www.bto.org/learn/skills/fieldcraft/articles/bird-id
+Pages: 2 | Size: 0.76 MB
+Publisher PDF: https://www.bto.org/sites/default/files/field_craft_bto_news_winter_2023.pdf
+Scope: Two-page illustrated introduction to five widespread gulls, emphasising size, proportions, silhouette and the order in which to inspect plumage features.
+Limit: An introductory approach, not an exhaustive guide to all immature plumages or rarer species.
+Credits/use: Free official BTO download. Keep original author/photo credits; private educational pack use, with source-page links preferable for public hosting.
+
+R05 | How to identify waders
+The Wildlife Trusts
+Topic: Birds
+Publisher: https://www.wildlifetrusts.org/wildlife/how-identify/identify-waders
+Scope: Substantial illustrated online comparison of UK waders, with identification descriptions, flight features, season and habitat; includes common coastal targets such as oystercatcher, plovers, godwits, shanks, dunlin, knot, sanderling, turnstone and purple sandpiper.
+Limit: Online reference rather than a printable field key. National coverage includes species unlikely at a particular Anglesey site or season.
+Credits/use: Link to publisher; photographs are individually credited. No open image-reuse licence observed.
+
+R06 | How to identify dabbling ducks
+The Wildlife Trusts
+Topic: Birds
+Publisher: https://www.wildlifetrusts.org/wildlife/how-identify/how-identify-dabbling-ducks
+Scope: Photo comparisons and separate male/female descriptions for mallard, gadwall, pintail, shoveler, teal and wigeon; useful for coastal wetlands and freshwater stops.
+Limit: Dabbling ducks only; use the BTO video directory for diving ducks and geese.
+Credits/use: Link to publisher; photographs are individually credited. No open image-reuse licence observed.
+
+R07 | How to identify gulls
+The Wildlife Trusts
+Topic: Birds
+Publisher: https://www.wildlifetrusts.org/how-identify/identify-gulls
+Scope: Photo guide to common UK gulls plus selected rarer species, showing useful adult features and seasonal changes.
+Limit: Primarily adult plumages; young gulls and hybrids require more detailed references or expert confirmation.
+Credits/use: Link to publisher; photographs are individually credited. No open image-reuse licence observed.
+
+R08 | Bird ID videos
+British Trust for Ornithology (BTO)
+Topic: Birds
+Publisher: https://www.bto.org/learn/skills/bird-identification/videos
+Scope: Expert comparison videos using footage, photographs and sound. Useful course selections include Cormorant and Shag, godwits, common shanks, grey geese and diving ducks.
+Limit: Requires internet/video access; choose a small set before the trip rather than using the whole directory in the field.
+Credits/use: Use publisher-hosted videos; footage supplied in part by NatureGuides. Do not rehost downloaded videos.
+
+R09 | An introduction to recording rocky shore life in Northern Ireland
+Christine C. Morrow / CEDaR, National Museums Northern Ireland (2020)
+Topic: Rockpools and Strandline
+Publisher: https://www.ulsterwildlife.org/shore-ni-downloads
+Pages: 98 | Size: 11.89 MB
+Publisher PDF: https://cms.nationalmuseumsni.org/sites/default/files/2022-09/Identifying_Rocky_Shore_Life_in_Northern_Ireland.pdf
+Scope: Broad illustrated field reference with diagnostic characters, similar species, sizes and habitats. Covers lichens, seaweeds, sponges, anemones and hydroids, polychaetes, crustaceans, molluscs, echinoderms, sea squirts and rockpool fish. Clear one-species-per-page layout.
+Limit: Northern Ireland selection, not a complete Anglesey checklist. Statements about absence of similar species or likely local occurrence refer to Northern Ireland; check southern or unfamiliar finds in MarLIN. Names follow the 2020 guide. Some groups need microscopy for confirmation.
+Credits/use: Official public download linked by Ulster Wildlife. Author and photograph credits retained; no explicit open redistribution licence stated in front matter.
+
+R10 | Beached! An introductory strandline guide
+North Wales Wildlife Trust
+Topic: Rockpools and Strandline
+Publisher: https://www.northwaleswildlifetrust.org.uk/livingseas/beached
+Pages: 24 | Size: 2.56 MB
+Publisher PDF: https://www.northwaleswildlifetrust.org.uk/sites/default/files/2024-11/Beached%21%20Strandline%20guide_0.pdf
+Scope: North Wales strandline identification: bivalves, gastropods, worms, sponges, bryozoans, hydroids, jellyfish, crustaceans, starfish, sea squirts and seaweeds. Includes useful photographic evidence tips and Cofnod recording guidance.
+Limit: Introductory guide to washed-up material, not a complete key to living rocky-shore communities; some organisms deliberately remain at higher taxonomic group level.
+Credits/use: Official public download; retains original photographs and credits. No explicit open redistribution licence found on source page.
+
+R11 | Large, long bivalve ID features
+North Wales Wildlife Trust
+Topic: Rockpools and Strandline
+Publisher: https://www.northwaleswildlifetrust.org.uk/livingseas/beached
+Pages: 10 | Size: 9.1 MB
+Publisher PDF: https://www.northwaleswildlifetrust.org.uk/sites/default/files/2021-07/Large%2C%20long%20bivalve%20ID%20Final.pdf
+Scope: Photographic comparisons of large elongated bivalves washed up on North Wales shores, with labelled hinge, muscle-scar and pallial-sinus characters.
+Limit: Selected bivalves only. Shell interiors are useful, so not every living specimen can be identified without disturbing it; use empty shells and Museum Wales for other taxa.
+Credits/use: Official public download; retain credits. No explicit open redistribution licence found.
+
+R12 | Thick-armed starfish ID features
+North Wales Wildlife Trust
+Topic: Rockpools and Strandline
+Publisher: https://www.northwaleswildlifetrust.org.uk/livingseas/beached
+Pages: 10 | Size: 15.63 MB
+Publisher PDF: https://www.northwaleswildlifetrust.org.uk/sites/default/files/2021-07/Starfish%20ID%20features%20-%20Final.pdf
+Scope: Close-up photographic guide to selected thick-armed starfish; introduces dorsal and ventral structures, spines, tube feet, arm form and colour variation.
+Limit: A targeted strandline guide, not all echinoderms. The 15 MB file is best downloaded before fieldwork.
+Credits/use: Official public download; retain credits. No explicit open redistribution licence found.
+
+R13 | Rockpool spotter sheet
+Alderney Wildlife Trust
+Topic: Rockpools and Strandline
+Publisher: https://www.alderneywildlife.org/sites/default/files/2025-06/Rockpool%20Spotter%20Sheet%20250603_0.pdf
+Pages: 4 | Size: 1.0 MB
+Publisher PDF: https://www.alderneywildlife.org/sites/default/files/2025-06/Rockpool%20Spotter%20Sheet%20250603_0.pdf
+Scope: Compact photographic starter sheet for molluscs, crabs, rockpool fish, anemones, worms, sea squirts and echinoderms, with a few diagnostic annotations.
+Limit: Channel Islands species selection includes southern taxa such as green ormer and giant goby; do not treat it as an Anglesey checklist or infer local presence. Confirm uncertain identifications with MarLIN.
+Credits/use: Official public PDF with named photographers on each page; no explicit open redistribution licence found.
+
+R14 | A Field Guide to the Crabs and Crab-like Crustaceans Found on Highland Shores
+James Merryweather / Skye and Lochalsh Environment Forum
+Topic: Rockpools and Strandline
+Publisher: https://www.slef.org.uk/user-friendly-field-guides.asp
+Pages: 11 | Size: 4.24 MB
+Publisher PDF: https://www.slef.org.uk/userfiles/file/slef-documents/crabs.pdf
+Scope: Illustrated dichotomous key and photo plates separating familiar true crabs, porcelain crabs, hermit crabs and squat lobsters.
+Limit: Written for Highland shores; the regional selection is incomplete for Wales and names/date reflect an older guide. Check current names and additional species with MarLIN or WoRMS.
+Credits/use: Source explicitly invites downloading, printing and laminating. Retain authorship; no broader open licence shown.
+
+R15 | Common periwinkles identification sheet
+James Merryweather / Skye and Lochalsh Environment Forum
+Topic: Rockpools and Strandline
+Publisher: https://www.slef.org.uk/user-friendly-field-guides.asp
+Pages: 1 | Size: 0.15 MB
+Publisher PDF: https://www.slef.org.uk/userfiles/file/slef-documents/PERIWINKLES-A5.pdf
+Scope: Side-by-side shell-shape comparisons of common, rough and flat periwinkles; highlights spire, whorls and aperture features.
+Limit: Littorina obtusata and L. fabalis remain grouped; colour alone is unreliable. This is not an exhaustive Littorina key.
+Credits/use: Source explicitly invites downloading, printing and laminating; sheet is copyright James Merryweather 2007.
+
+R16 | Sponges of the British Isles (Sponge V)
+Marine Conservation Society / Bernard Picton and co-authors; hosted by Habitas
+Topic: Rockpools and Strandline
+Publisher: https://www.habitas.org.uk/marinelife/sponge_guide/sponge5.pdf
+Pages: 165 | Size: 7.19 MB
+Publisher PDF: https://www.habitas.org.uk/marinelife/sponge_guide/sponge5.pdf
+Scope: Detailed species sheets, photographs, spicule drawings, glossary and identification techniques. 1992 edition reset with modifications in 2007; approximately 7 MB.
+Limit: Advanced reference and provisional working document. Microscopic examination is essential for confident identifications, and taxonomy has changed since publication. Not a field spotter sheet.
+Credits/use: Copyright 2007 Bernard E Picton. Publicly offered PDF; no explicit Creative Commons licence found within the guide.
+
+R17 | Beginners' Guide to Keys for Marine Benthic Macrofaunal Invertebrates from British Seas
+Myles O'Reilly, SEPA / NMBAQC Scheme
+Topic: Rockpools and Strandline
+Publisher: https://www.nmbaqcs.org/scheme-components/invertebrates/literature-and-taxonomic-keys/
+Pages: 17 | Size: 0.44 MB
+Publisher PDF: https://www.nmbaqcs.org/scheme-components/invertebrates/literature-and-taxonomic-keys/beginners-guide-to-keys-re-formatted-nov-2025/
+Scope: 2024 guide, reformatted November 2025, directing novice laboratory taxonomists to appropriate keys for worms, crustaceans, molluscs and smaller phyla. Parent page links current and historical specialist keys.
+Limit: A guide to identification literature, not itself a pictorial field key; many linked resources need microscopes and preserved material. Distinguish current keys from archive versions.
+Credits/use: Official public download. Some referenced publications require purchase; source explicitly withholds copyrighted published keys where permission is absent.
+
+R18 | Identification guide for selected marine non-native species (compact version)
+John Bishop and Christine Wood / Marine Biological Association
+Topic: Rockpools and Strandline
+Publisher: https://plymsea.ac.uk/id/eprint/9075/
+Pages: 40 | Size: 1.73 MB
+Publisher PDF: https://plymsea.ac.uk/id/eprint/9075/1/MBA%20NNS%20Guide%202020%20%281.6%20MB%29.pdf
+Scope: Illustrated guide to selected non-native seaweeds and marine animals, including crustaceans, bryozoans and sea squirts. Useful supplementary coverage for harbour and sheltered-shore work.
+Limit: Selected non-native taxa, not a general shore fauna guide or evidence of occurrence at the course sites. Published in 2020.
+Credits/use: Repository explicitly marks Creative Commons Attribution Non-commercial Share Alike; preserve attribution and licence.
+
+R19 | MarLIN species identification and biology
+Marine Biological Association / Marine Life Information Network
+Topic: Rockpools and Strandline
+Publisher: https://www.marlin.ac.uk/species
+Scope: Over 900 species accounts arranged by major groups, with images, identification descriptions, distribution, habitats and references. Includes worms, sponges, bryozoans, cnidarians, molluscs, echinoderms, crustaceans and fish.
+Limit: Broad but not exhaustive; species summaries vary in detail and some difficult taxa cannot be confirmed from photographs.
+Credits/use: Website terms apply; link rather than copying photographs or full pages.
+
+R20 | Marine Bivalve Shells of the British Isles
+Amgueddfa Cymru - Museum Wales
+Topic: Rockpools and Strandline
+Publisher: https://naturalhistory.museumwales.ac.uk/britishbivalves/id.php
+Scope: Authoritative illustrated interactive keys and species accounts for British marine bivalves, including adult and juvenile shells, comparative plates and names. Site covers more than 400 species.
+Limit: Includes deep-water taxa far beyond the field-course scope; some keys need shell interiors or soft anatomy.
+Credits/use: Public identification website; link to original pages and retain image copyright.
+
+R21 | Encyclopedia of Marine Life of Britain and Ireland
+Bernard Picton and Christine Morrow / Habitas
+Topic: Rockpools and Strandline
+Publisher: https://www.habitas.org.uk/marinelife/
+Scope: Photographic marine-life reference useful especially for sea squirts, sea slugs, sponges and other conspicuous invertebrates.
+Limit: Older framed website; coverage varies by group and names may need checking against WoRMS. Worms and crustaceans are less comprehensively covered than several other groups.
+Credits/use: Link to original; individual image and text rights apply.
+
+R22 | Big Seaweed Search guide
+Natural History Museum and Marine Conservation Society
+Topic: Seaweeds
+Publisher: https://www.nhm.ac.uk/take-part/monitor-and-encourage-nature/big-seaweed-search.html
+Pages: 8 | Size: 3.63 MB
+Publisher PDF: https://www.nhm.ac.uk/content/dam/nhm-www/take-part/Citizenscience/seaweed-survey/big-seaweed-search-guide.pdf
+Scope: 8-page illustrated introduction to 14 target seaweed types, with shore-zone labels, diagnostic features and a simple survey method.
+Limit: Target list includes broad groups such as calcified crusts and coral weeds; this is not a whole-flora key. Older contextual statements and names should be checked against current references.
+Credits/use: Free NHM download. Copyright The Trustees of the Natural History Museum, London (2016) with named photographic credits; no blanket open redistribution licence identified.
+
+R23 | Spotting Seaweeds in Wales: brown seaweeds
+Amgueddfa Cymru / Museum Wales
+Topic: Seaweeds
+Publisher: https://museum.wales/collections/on-your-doorstep/identifying-nature/spotters-guide/
+Pages: 1 | Size: 0.56 MB
+Publisher PDF: https://museum.wales/media/51468/07SG-Spotting-Seaweeds-in-Wales-brown-seaweeds.pdf
+Scope: Single-page introductory photographic sheet with five brown seaweeds, distinguishing features and shore positions; includes an Anglesey reference for rainbow wrack.
+Limit: A small selection; some names have changed and simplified ecology notes are not a formal key.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R24 | Spotting Seaweeds in Wales: reds and greens
+Amgueddfa Cymru / Museum Wales
+Topic: Seaweeds
+Publisher: https://museum.wales/collections/on-your-doorstep/identifying-nature/spotters-guide/
+Pages: 1 | Size: 0.51 MB
+Publisher PDF: https://museum.wales/media/51467/08SG-Spotting-Seaweeds-in-Wales-reds-and-greens.pdf
+Scope: Single-page introductory photographic sheet for dulse, laver, sea lettuce, feather weed and coral weeds.
+Limit: Some entries represent several genera or difficult species; visual matching alone cannot establish Ulva, laver or coralline species.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R25 | A Field Guide to the British Seaweeds
+Emma Wells / Wells Marine Surveys; Environment Agency, hosted by NMBAQC
+Topic: Seaweeds
+Publisher: https://nmbaqcs.org/scheme-components/macroalgae/literature-and-taxonomic-keys/
+Pages: 112 | Size: 9.17 MB
+Publisher PDF: https://nmbaqcs.org/scheme-components/macroalgae/literature-and-taxonomic-keys/a-guide-to-british-seaweeds/
+Scope: 112-page guide combining an identification key, photographs, character summaries and specimen examination guidance for a reduced intertidal species list used in Water Framework Directive assessment.
+Limit: Intermediate level; some identifications require a microscope. Reduced list, not all British seaweeds; taxonomy is historical. Sampling instructions are for trained surveys and do not grant permission to collect.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R26 | Pictures to help with identification of Fucus species from the British Isles (2012)
+Holly Brown and Martin Wilkinson, Heriot-Watt University; hosted by NMBAQC
+Topic: Seaweeds
+Publisher: https://nmbaqcs.org/scheme-components/macroalgae/literature-and-taxonomic-keys/
+Pages: 22 | Size: 7.09 MB
+Publisher PDF: https://nmbaqcs.org/scheme-components/macroalgae/literature-and-taxonomic-keys/pictures-to-help-with-identification-of-fucus-species-from-the-birtish-isles/
+Scope: 22-page photographic comparison of wracks, with useful estuarine forms and Ffraw estuary (Anglesey) examples.
+Limit: Designed primarily for estuarine quality assessment; does not include every open-coast variant. Use alongside other keys.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R27 | A field key to the British brown seaweeds (Phaeophyta), 1979
+Sue Hiscock / Field Studies Council
+Topic: Seaweeds
+Publisher: https://www.field-studies-council.org/resources/field-studies-journal/a-field-key-to-the-british-brown-seaweeds-phaeophyta/
+Pages: 45 | Size: 1.25 MB
+Publisher PDF: https://cdn.fieldstudiescouncil.net/fsj/vol5.1_125a.pdf
+Scope: 45-page scanned AIDGAP field key with line drawings and glossary; useful structured identification practice beyond spotter sheets.
+Limit: Historical key: nomenclature and coverage predate subsequent introductions and taxonomic revision. Check current accepted names; some species require closer examination.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R28 | A field key to the British red seaweeds (Rhodophyta)
+Sue Hiscock / Field Studies Council
+Topic: Seaweeds
+Publisher: https://www.field-studies-council.org/resources/field-studies-journal/british-red-seaweeds/
+Pages: 107 | Size: 4.43 MB
+Publisher PDF: https://cdn.fieldstudiescouncil.net/fsj/1983_hiscock.pdf
+Scope: 107-page scanned AIDGAP key with diagnostic drawings, glossary and plates for larger red seaweeds.
+Limit: Historical reference; publisher web page dates the file 1983 while bibliographies commonly cite the later 1986 edition. Names and coverage require checking; some species cannot be resolved without microscopy.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R29 | Sand Dune Plant ID Guide (2023)
+Dynamic Dunescapes partnership (including Plantlife and Natural Resources Wales)
+Topic: Dunes and Coastal Plants
+Publisher: https://dynamicdunescapes.co.uk/about-sand-dunes/dune-wildlife/
+Pages: 16 | Size: 17.03 MB
+Publisher PDF: https://dynamicdunescapes.co.uk/wp-content/uploads/2023/09/Sand-Dune-Plant-ID-Guide-2023.pdf
+Scope: 16-page photographic guide arranged by dune habitats, with characteristic plants and indicator categories; the best introductory dune PDF in this selection.
+Limit: A selection of dune plants rather than a complete flora or diagnostic key; use the NPMS guide for characters and difficult groups. Flowering photographs may be less useful in autumn/winter.
+Credits/use: Free publisher download. Individual photographs carry named credits and, where marked, CC BY 1.0, 2.0 or 4.0; preserve image-specific attribution. No single whole-document licence stated.
+
+R30 | Species Identification Guide, 2nd edition (2019)
+National Plant Monitoring Scheme: Plantlife, BSBI, UKCEH and JNCC
+Topic: Dunes and Coastal Plants
+Publisher: https://www.npms.org.uk/node/88
+Pages: 168 | Size: 29.7 MB
+Publisher PDF: https://www.npms.org.uk/sites/default/files/PDF/NPMS_Id%20guide_WEB_2ndEd.pdf
+Scope: 168-page illustrated guide to scheme plants across British habitats. Includes coastal plants, flowering-time and difficulty indicators, grasses (printed p.130), rushes (p.138), sedges (p.140), ferns and shrubs.
+Limit: Scheme indicator species only; not a complete Anglesey flora. Flower-colour organisation is less helpful out of season; confirm vegetative and diagnostic characters. Large download (29.7 MB).
+Credits/use: Free publisher download. Photographs carry individual copyright/Creative Commons credits; illustrations are reproduced by permission from published field guides. Preserve intact; no blanket redistribution licence identified.
+
+R31 | Species Lists, 2nd edition (2019)
+National Plant Monitoring Scheme
+Topic: Dunes and Coastal Plants
+Publisher: https://www.npms.org.uk/node/88
+Pages: 52 | Size: 1.62 MB
+Publisher PDF: https://www.npms.org.uk/sites/default/files/PDF/NPMS_Species%20lists_WEB_2ndEd.pdf
+Scope: 52-page companion to NPMS ID guide. Coastal saltmarsh (printed p.15), sand dunes (p.16), vegetated shingle (p.17), and maritime cliffs/slopes (p.19) point to relevant plants and guide pages.
+Limit: Checklist and navigation aid, not an identification guide or prediction of every species present on Anglesey.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R32 | Solway Flowers: Beachcomber’s Guide
+Solway Firth Partnership
+Topic: Dunes and Coastal Plants
+Publisher: https://www.solwayfirthpartnership.co.uk/community/making-the-most-of-the-coast/
+Pages: 21 | Size: 7.72 MB
+Publisher PDF: https://www.solwayfirthpartnership.co.uk/wp-content/uploads/2020/06/Solway-Flowers.pdf
+Scope: 21-page photographic introduction to 16 coastal flowering plants, grouped by saltmarsh, dunes, shingle and rocky coast.
+Limit: Written for the Solway, so use the shared-species descriptions rather than local occurrence assumptions. Simplified photo guide; difficult species groups need confirmation, and flower-led identification has seasonal limits.
+Credits/use: Publisher-provided free download. Retain the complete original and all credits; no blanket open redistribution licence identified.
+
+R33 | Grasses: Sandy Beaches and Dunes
+Flora of East Anglia, hosted by BSBI
+Topic: Dunes and Coastal Plants
+Publisher: https://flora-east-anglia.bsbi.org/_templates/grassgroup_coastalsand.html
+Scope: Online photographs and detailed vegetative/flowering characters for coastal sand grasses, with links to comparisons and grass terminology.
+Limit: East Anglian species selection and distribution notes; not an Anglesey checklist. Use traits for shared species and verify local occurrence.
+Credits/use: Link-only resource; retain the original site and image credits.
+
+R34 | Grasses: Shingle Beaches and Saltmarsh
+Flora of East Anglia, hosted by BSBI
+Topic: Dunes and Coastal Plants
+Publisher: https://flora-east-anglia.bsbi.org/_templates/grassgroup_saltmarsh.html
+Scope: Online illustrated grass comparison for saltmarsh/shingle including ligules, leaf shape, panicles and spikelet characters.
+Limit: Regional selection; flowering structures and close inspection may be needed. Not all Welsh lookalikes are guaranteed to be covered.
+Credits/use: Link-only resource; retain the original site and image credits.
+
+R35 | Coastal Communities
+Flora of East Anglia, hosted by BSBI
+Topic: Dunes and Coastal Plants
+Publisher: https://flora-east-anglia.bsbi.org/_templates/communities_coastal.html
+Scope: Habitat overview and links to individual plant accounts for saltmarsh, dunes, shingle, strandline and coastal cliffs.
+Limit: East Anglian habitat examples and species lists; transfer identification characters rather than assuming local Anglesey distributions.
+Credits/use: Link-only resource; retain the original site and image credits.
+
+R36 | Saltmarsh guide (optional printed field chart)
+Field Studies Council; Oldham and Roberts
+Topic: Dunes and Coastal Plants
+Publisher: https://www.field-studies-council.org/shop/publications/saltmarsh-guide/
+Scope: Paid splash-proof chart covering 40 saltmarsh plants, including a vegetative key useful outside the flowering season.
+Limit: Optional purchase rather than a free PDF; one of the useful gaps to fill for autumn saltmarsh fieldwork.
+Credits/use: Commercial publication: link only; no copy included.
+
+R37 | Marram grass: information note
+Natural Resources Wales
+Topic: Dunes and Coastal Plants
+Publisher: https://naturalresources.wales/guidance-and-advice/business-sectors/education-and-skills/search-for-education-resources/learning-resources-search-by-topic/sand-dunes/?lang=en
+Pages: 2 | Size: 0.37 MB
+Publisher PDF: https://cdnfd.cyfoethnaturiol.cymru/r4tawyj5/information-note-marram.pdf
+Scope: Two-page illustrated note on marram structure, adaptations and dune stabilisation.
+Limit: Companion teaching note; use the dune plant guide to distinguish other coastal grasses.
+Credits/use: Publisher educational download; retain NRW credits. No open republication licence verified.
+
+R38 | South Stack nature reserve
+RSPB
+Topic: Anglesey Context
+Publisher: https://www.rspb.org.uk/days-out/reserves/south-stack
+Scope: Anglesey-specific habitat and season context for sea cliffs and coastal heath. Official reserve information highlights spring breeding auks and year-round choughs; trail map available from the page.
+Limit: Local context and visit information, not an identification guide. Check current opening/access details before travel; breeding auk colonies should not be promised outside their season.
+Credits/use: Link to official reserve page.
+
+R39 | Valley Wetlands nature reserve
+RSPB
+Topic: Anglesey Context
+Publisher: https://www.rspb.org.uk/days-out/reserves/valley-wetlands
+Scope: Anglesey-specific context for reed-fringed lakes, wetland birds and plants; highlights diving and dabbling ducks and grebes.
+Limit: Local context and access information, not an identification guide. Check current access directly before planning a visit.
+Credits/use: Link to official reserve page.
+
+R40 | Anglesey and Gwynedd dune project
+Dynamic Dunescapes / Natural Resources Wales and partners
+Topic: Anglesey Context
+Publisher: https://dynamicdunescapes.co.uk/project/anglesey-gwynedd/
+Scope: Local habitat context for Cymyran, Tywyn Trewan, Tywyn Llyn and Tywyn Fferam; restoration examples and characteristic dune wildlife.
+Limit: Context and site orientation, not an identification key or a current access guide.
+Credits/use: Link-only resource.
+
+R41 | Coastal sand dunes in Wales
+Natural Resources Wales
+Topic: Anglesey Context
+Publisher: https://naturalresources.wales/guidance-and-advice/business-sectors/education-and-skills/search-for-education-resources/learning-resources-search-by-topic/sand-dunes/?lang=en
+Pages: 15 | Size: 2.24 MB
+Publisher PDF: https://cdnfd.cyfoethnaturiol.cymru/695394/information-note-coastal-sand-dunes-in-wales.pdf
+Scope: Illustrated explanation of dune habitats, zonation, characteristic plants and Welsh dune sites, including Newborough and Aberffraw.
+Limit: Habitat background, not a species identification key. The zonation diagram is an introductory model.
+Credits/use: Publisher educational download; retain NRW credits. No open republication licence verified.
+
+R42 | Newborough National Nature Reserve and Forest
+Natural Resources Wales
+Topic: Anglesey Context
+Publisher: https://naturalresourceswales.gov.uk/days-out/places-to-visit/north-west-wales/newborough?lang=en
+Scope: Official local orientation, habitat information and current visitor information; source page includes downloadable maps and leaflets.
+Limit: Local context, not an identification guide. Check current access information before the visit.
+Credits/use: Link to publisher.

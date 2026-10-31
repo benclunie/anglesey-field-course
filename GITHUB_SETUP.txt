@@ -1,0 +1,27 @@
+GITHUB PAGES SETUP — BENCLUNIE
+C6002C17 - Environment and Geography Field Course
+
+The page is complete and checked, but it has not been published.
+
+1. Sign in to GitHub as benclunie. Create a public repository named
+   anglesey-field-course. Tick Add README so the main branch exists.
+2. Extract this ZIP on your computer. In the repository, choose Add file >
+   Upload files. Upload index.html, sources-and-credits.txt, README.md
+   and .nojekyll to the top level and choose Commit changes.
+   Upload the extracted files, not the ZIP or its enclosing folder.
+3. Open Settings > Pages. Under Build and deployment, choose Deploy from
+   a branch, main, and /(root), then Save.
+4. When GitHub shows the site as published, copy the live address shown
+   in Pages settings. In Moodle, add a URL resource and paste that address.
+
+Suggested Moodle resource name:
+Anglesey coastal identification resources
+
+The website includes all 42 annotated resources and direct links to 27
+publisher-hosted PDFs. Students should download the PDFs they need before
+travelling. HAU styling, topic navigation and light/dark mode are retained.
+
+No build tools, large PDF upload or Moodle package import are needed.
+
+Official GitHub instructions:
+https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
